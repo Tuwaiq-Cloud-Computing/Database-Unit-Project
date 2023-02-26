@@ -17,14 +17,14 @@ This project must at least satisfy the following minimum requirements :
 #### Overview : DB must have 2 tables one for Students and one for Courses. 
 
 #### Course table:
-Course_id (int) / PK
-Course_Name (varchar)
+- Course_id (int) / PK
+- Course_Name (varchar)
 
 Student table:
-Student_id (int) / PK
-Student_name (varchar)
-Student_Major (varchar)
-Course_Id (reference to Course table).
+- Student_id (int) / PK
+- Student_name (varchar)
+- Student_Major (varchar)
+- Course_Id (reference to Course table).
 
 There are three Courses defined within the Course table:
 - Math
