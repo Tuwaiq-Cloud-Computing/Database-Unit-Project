@@ -23,7 +23,7 @@ This project must at least satisfy the following minimum requirements :
 - and so on...
 
 
-## Example Project 
+## For example : 
 
 
 Course table:
