@@ -7,9 +7,9 @@ This project must at least satisfy the following minimum requirements :
 
 ### Database will do the following:
 - Create Tables .
-- Add value to table.
+- Add record to table.
 - Use conditions .
-- Update and Delete items.
+- Update and Delete record.
 
 
 ## Example Project : DBMS :
