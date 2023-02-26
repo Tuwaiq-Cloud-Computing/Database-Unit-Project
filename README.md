@@ -15,6 +15,13 @@ This project must at least satisfy the following minimum requirements :
 - DB must have 2 tables and relationship between them .
 - After you create tables add record to them .
 
+#### As a DBA I should be able to do the following :
+- Create Table.
+- Update Table info
+- Delete a Record.
+- Add Record to Table.
+- and so on...
+
 
 ## Example Project 
 
