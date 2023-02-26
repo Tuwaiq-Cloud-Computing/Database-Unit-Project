@@ -1,32 +1,15 @@
 # Database-Unit-Project
 
-# (Notice) You need this project in RESTApi Project when you submit this project don't delete resourses. 
+# (Notice) You msy need this project in RESTAPI project when you submit this project don't delete the resourses. 
 
-## Based on what you’ve learned until now , create a Database to solve a problem that you faced.
+## Based on what you’ve learned until now, create a database to solve a problem that you faced.
 This project must at least satisfy the following minimum requirements :
+- Use ApsaraDB RDS for MySQL to build your database.
+- DB must have 2 tables and relationship between them.
+- After you create tables add record to them.
+- Add needed constraints.
 
-
-#### Required :
-- DB must have 2 tables and relationship between them .
-- After you create tables add record to them .
-
-
-### Database will do the following:
-- Create Tables .
-- Add record to table.
-- Add constrain .
-- Update and Delete record and table.
-
-
-#### As a DBA I should be able to do the following :
-- Create Table.
-- Update Table info
-- Delete a Record.
-- Add Record to Table.
-- and so on...
-
-
-## For example : 
+## Example : 
 
 
 Course table:
@@ -39,19 +22,11 @@ Student table:
 - Student_Major (varchar)
 - Course_Id (reference to Course table).
 
-There are three Courses defined within the Course table:
-- Math
-- Program 
-- Physics
-
-And there are three Student defined within the Student table:
-
-Naif (Course: Math , Major: IS ) </br>
-Saleh (Course: Program , Major: CS )</br>
-Sara (Course: Physics , Major: CE )
 
 
+#### For your project. Edit this README.md file to include your own database overview(tables and columns and datatypes) and add pictures of the output of these queries:
+- describe first_table_name;
+- describe second_table_name;
+- select * from first_table_name;
+- select * from second_table_name;
 
-
-
-#### For your project. Edit this README.md file to include your own project name, overview, user stories.
