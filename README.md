@@ -50,12 +50,5 @@ Sara (Course: Physics , Major: CE )
 
 
 
-#### As a DBA I should be able to do the following :
-- Create Table.
-- Update Table info
-- Delete a Record.
-- Add Record to Table.
-- and so on...
-
 
 #### For your project. Edit this README.md file to include your own project name, overview, user stories.
