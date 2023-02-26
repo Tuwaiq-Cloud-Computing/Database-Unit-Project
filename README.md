@@ -5,15 +5,18 @@
 ## Based on what you’ve learned until now , create a Database to solve a problem that you faced.
 This project must at least satisfy the following minimum requirements :
 
+
+#### Required :
+- DB must have 2 tables and relationship between them .
+- After you create tables add record to them .
+
+
 ### Database will do the following:
 - Create Tables .
 - Add record to table.
 - Add constrain .
 - Update and Delete record and table.
 
-#### Required :
-- DB must have 2 tables and relationship between them .
-- After you create tables add record to them .
 
 #### As a DBA I should be able to do the following :
 - Create Table.
