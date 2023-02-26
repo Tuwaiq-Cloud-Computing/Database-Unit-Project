@@ -2,21 +2,24 @@
 
 # (Notice) You need this project in RESTApi Project when you submit this project don't delete resourses. 
 
-## Based on what you’ve learned until now , create a Database to solve a problem of University.
+## Based on what you’ve learned until now , create a Database to solve a problem that you faced.
 This project must at least satisfy the following minimum requirements :
 
 ### Database will do the following:
 - Create Tables .
 - Add record to table.
-- Use conditions .
-- Update and Delete record.
+- Add constrain .
+- Update and Delete record and table.
+
+#### Required :
+- DB must have 2 tables and relationship between them .
+- After you create tables add record to them .
 
 
-## Example Project : DBMS :
+## Example Project 
 
-#### Overview : DB must have 2 tables one for Students and one for Courses. 
 
-#### Course table:
+Course table:
 - Course_id (int) / PK
 - Course_Name (varchar)
 
