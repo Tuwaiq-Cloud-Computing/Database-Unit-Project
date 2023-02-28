@@ -1,6 +1,6 @@
 # Database-Unit-Project
 
-# (Notice) You msy need this project in RESTAPI project when you submit this project don't delete the resourses. 
+# (Notice) You msy need this project in REST-API project when you submit this project don't delete the resourses. 
 
 ## Based on what you’ve learned until now, create a database to solve a problem that you faced.
 This project must at least satisfy the following minimum requirements :
